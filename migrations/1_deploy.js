@@ -1,4 +1,4 @@
-// migrations/2_deploy.js
+// migrations/1_deploy.js
 // SPDX-License-Identifier: MIT
 const Bear = artifacts.require("B08902121");
 
